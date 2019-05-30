@@ -9,6 +9,12 @@ Los archivos generados el día de hoy fueron:
 * ['entero.h'](entero.h)
 * ['principal.c](principal.c)
 
+La forma como se compila y se ejecuta es como sigue:
+
+```
+gcc principal.c -o principal && ./principal
+```
+
 ## cpu.c
 
 ## mem.c
