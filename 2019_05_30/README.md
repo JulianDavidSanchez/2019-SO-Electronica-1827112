@@ -6,8 +6,8 @@ En la clase de hoy logramos ver lo relativo a los archivos de cabecera en C. Se 
 
 Los archivos generados el día de hoy fueron:
 
-* ['entero.h'](entero.h)
-* ['principal.c](principal.c)
+* [`entero.h`](entero.h)
+* [`principal.c`](principal.c)
 
 La forma como se compila y se ejecuta es como sigue:
 
