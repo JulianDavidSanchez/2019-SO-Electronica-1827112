@@ -5,7 +5,7 @@
 #include "mycommon.h"
 
 volatile int counter = 0;
-volatile puerta(puerta); 
+puerta(puerta); 
 int loops;
 
 void *worker(void *arg) {
